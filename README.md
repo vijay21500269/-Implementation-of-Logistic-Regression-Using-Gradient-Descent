@@ -68,6 +68,7 @@ for i,j in enumerate(np.unique(y_Set)):
 
 ## Output:
 ![pic 1](https://user-images.githubusercontent.com/93427086/173877181-191cbad2-f4c7-4c85-9b06-8f35361c75f7.png)
+![pic 2](https://user-images.githubusercontent.com/93427086/173877262-274b1cb0-aaf5-4b1a-8543-fca95b6156f5.png)
 
 
 ## Result:
